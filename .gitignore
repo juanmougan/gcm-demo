@@ -1,6 +1,9 @@
 # Don't share the API key!
 */samples/gcm-demo-server/WebContent/WEB-INF/classes/api.key
 
+# Metadata folder
+*/.metadata
+
 ### Java ###
 *.class
 
